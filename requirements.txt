@@ -1,0 +1,12 @@
+streamlit
+faiss-cpu
+pandas
+numpy
+sentence-transformers==2.7.0
+transformers==4.41.2
+torch
+symspellpy
+accelerate
+scikit-learn
+huggingface-hub
+setuptools
